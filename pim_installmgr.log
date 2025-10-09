@@ -1,0 +1,326 @@
+  PTC Installation assistant log file
+========= PIM Version: 8.0.2.0 ==========
+Mon Mar 04 10:40:59 24
+=======================================
+ Sessioninfo xml file :F:\pim\xml\sessioninfo.xml)
+sessioninfo created
+PimTop-sessioninfo created
+before test communication
+skip test communication
+set platforms
+set languages prop
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :F:\pim\xml\dotnet4.xml)
+ Sessioninfo xml file :F:\pim\xml\dotnet4.xml)
+Loaded product definition file: F:\pim\xml\pma.xml.
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+Loaded product definition file: F:\pim\xml\creobase.xml.
+Loaded product definition file: F:\pim\xml\dsm.xml.
+Loaded product definition file: F:\pim\xml\creoviewexpress.xml.
+Loaded product definition file: F:\pim\xml\qualityagent.xml.
+Loaded product definition file: F:\pim\xml\creothumbnailviewer.xml.
+AddLicenseSource: 0 : C:\Program Files\PTC\PTC_D_SSQ.dat
+Microsoft .NET Framework 4 Client Profile was found to be installed. 
+Microsoft .NET Framework 4 was found to be installed. 
+Component of Creo providing a browser and other services.
+A Microsoft component required for Creo Parametric
+Component of Creo providing a browser and other services.
+Installation root path set to: C:\Program Files\PTC
+Component of Creo providing a browser and other services.
+A Microsoft component required for Creo Parametric
+Component of Creo providing a browser and other services.
+Starting the installation of Creo 8 Platform Services.
+Starting the installation of Visual C++ Redistributables.
+Starting the installation of Creo Common Files.
+Starting the installation of Creo Parametric.
+Starting the installation of Creo Distributed Services Manager.
+Starting the installation of Creo View Express.
+Starting the installation of Diagnostic Tools.
+Starting the installation of Creo Thumbnail Viewer.
+Setting up Uninstall information in the registry for PTC Creo Distributed Services Manager Version 8.0.2.0.
+Extracting archive file from F:\ptcsh0\ptc83.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Distributed Services Manager.
+Uninstall information entered into the registry for PTC Creo Distributed Services Manager Version 8.0.2.0.
+Extracting archive file from F:\ptcsh0\ptc84.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Distributed Services Manager.
+Extracting archive file from F:\ptcsh0\ptc85.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Distributed Services Manager.
+Extracting archive file from F:\ptcsh0\ptc103.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Distributed Services Manager.
+Extracting archive file from F:\ptcsh0\ptc106.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Distributed Services Manager.
+Extracting archive file from F:\ptcsh0\ptc107.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Distributed Services Manager.
+Extracting archive file from F:\ptcsh0\ptc172.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Distributed Services Manager.
+Extracting archive file from F:\ptcsh0\ptc173.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Distributed Services Manager.
+Extracting archive file from F:\ptcsh0\ptc174.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Distributed Services Manager.
+Extracting archive file from F:\ptcsh0\ptc217.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Distributed Services Manager.
+Extracting archive file from F:\ptcsh0\ptc218.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Distributed Services Manager.
+Extracting archive file from F:\ptcsh0\ptc226.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Distributed Services Manager.
+ Sessioninfo xml file :F:\pim\xml\creo_templates.xml)
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Distributed Services Manager/bin/ptchostid.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Distributed Services Manager/bin/ptcflush.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Distributed Services Manager/bin/ptcstatus.bat.
+ Sessioninfo xml file :F:\pim\xml\psf_templates.xml)
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Distributed Services Manager/bin/ptcdsm.psf.
+Create Start Menu Programs Folder Shortcut Creo Distributed Services Manager 8.0.2.0.
+Create Desktop Shortcut Creo Distributed Services Manager 8.0.2.0.
+Create Start Menu Shortcut uninstall.
+Create Start Menu Shortcut reconfigure.
+The Command line execution of "F:\install\addon\creosvcs_64.exe" returned an exit code of 0.
+Extracting archive file from F:\ptcsh0\ptc0.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc1.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc2.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc8.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc9.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc10.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc21.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc22.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc23.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc24.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc35.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc46.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc57.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+The Command line execution of "F:\ptcsh0\2012vcredist_x64.exe" returned an exit code of 0.
+Extracting archive file from F:\ptcsh0\ptc68.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc69.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc70.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc71.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+The Command line execution of "F:\ptcsh0\2012vcredist_x86.exe" returned an exit code of 0.
+Extracting archive file from F:\ptcsh0\ptc72.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc73.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+The Command line execution of "F:\ptcsh0\2013vcredist_x64.exe" returned an exit code of 0.
+The Command line execution of "F:\ptcsh0\2013vcredist_x86.exe" returned an exit code of 0.
+Extracting archive file from F:\ptcsh0\ptc74.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+The Command line execution of "F:\ptcsh0\2019vcredist_x64.exe" returned an exit code of 1638.
+The Command line execution of "F:\ptcsh0\2019vcredist_x86.exe" returned an exit code of 1638.
+Extracting archive file from F:\ptcsh0\ptc75.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Prerequisite for Creo Parametric -- Y -- is not satisfied.
+Extracting archive file from F:\ptcsh0\ptc76.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc78.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc79.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc96.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc99.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc100.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc101.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc102.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc106.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc107.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc109.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc123.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc134.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc135.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc146.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc172.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc217.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc219.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc226.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc238.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc281.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc283.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc302.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Extracting archive file from F:\ptcsh0\ptc313.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Common Files.
+Created registry key [HKCR].phw with default value phwFile.
+Created registry key [HKCR]phwFile with default value PTC Helper App File.
+Created registry key [HKCR]phwFile\DefaultIcon with default value [ICON],0.
+Created registry key [HKCR]phwFile\Shell.
+Created registry key [HKCR]phwFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]phwFile\Shell\Open\Command with default value "[LP]/[THIS_ARCH]/obj/creo_openwith.exe" "%1".
+Setting up Uninstall information in the registry for PTC Creo Parametric Version 8.0.2.0.
+Extracting archive file from F:\ptcsh0\ptc77.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Uninstall information entered into the registry for PTC Creo Parametric Version 8.0.2.0.
+Extracting archive file from F:\ptcsh0\ptc80.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Parametric.
+ Sessioninfo xml file :F:\pim\xml\creo_templates.xml)
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Common Files/x86e_win64/obj/system_monitor.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/InstallManager/silent_Group_Uninstall.bat.
+Extracting archive file from F:\ptcsh0\ptc81.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Parametric.
+Extracting archive file from F:\ptcsh0\ptc84.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Parametric.
+Extracting archive file from F:\ptcsh0\ptc85.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Parametric.
+Extracting archive file from F:\ptcsh0\ptc97.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc103.cab to path C:\Program Files\PTC\Creo 8.0.2.0\Parametric.
+Extracting archive file from F:\ptcsh0\ptc108.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc110.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc120.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc121.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc122.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc147.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc148.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc155.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+The Command line execution of "F:\install\addon\pvx32_64\CreoSetup.exe" returned an exit code of 0.
+Extracting archive file from F:\ptcsh0\ptc156.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc157.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc158.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc165.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+The Command line execution of "msiexec.exe /qn /I "F:\install\addon\qualityagent_64.msi" INSTALLDIR="C:\Program Files\PTC\DiagnosticTools"" returned an exit code of 0.
+Extracting archive file from F:\ptcsh0\ptc167.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc168.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc169.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc170.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc171.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+The Command line execution of "msiexec.exe /qn /I "F:\install\addon\Thumbviewer_32_64.msi"" returned an exit code of 0.
+Extracting archive file from F:\ptcsh0\ptc175.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc176.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc220.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc227.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc249.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc250.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc251.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc252.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc253.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc263.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc264.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc276.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc277.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc278.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc279.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc280.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc284.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc285.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc286.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc287.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc288.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc289.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc290.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc291.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc301.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc314.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc315.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc325.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc336.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc337.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc338.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc339.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc341.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc342.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc343.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc353.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc364.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc365.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc366.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc367.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc368.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc369.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Extracting archive file from F:\ptcsh0\ptc370.cab to path C:\Program Files\PTC/Creo 8.0.2.0/Common Files.
+Modified existing registry key [HKCR].psf with default value psfFile
+Modified existing registry key [HKCR].pha with default value phaFile
+Modified existing registry key [HKCR].asm with default value asmFile
+Modified existing registry key [HKCR].dgm with default value dgmFile
+Modified existing registry key [HKCR].drw with default value drwFile
+Modified existing registry key [HKCR].frm with default value frmFile
+Modified existing registry key [HKCR].lay with default value layFile
+Modified existing registry key [HKCR].mfg with default value mfgFile
+Modified existing registry key [HKCR].mrk with default value mrkFile
+Modified existing registry key [HKCR].prt with default value prtFile
+Modified existing registry key [HKCR].sec with default value secFile
+Modified existing registry key [HKCR]creoFile with default value Creo Versioned File
+Modified existing registry key [HKCR]creoFile with default value PTC.Creo_Parametric.[VERSION]
+Created registry key [HKCR]creoFile\DefaultIcon with default value [ICON],0.
+Created registry key [HKCR]creoFile\Shell.
+Created registry key [HKCR]creoFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]creoFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]psfFile with default value PTC Startup File
+Modified existing registry key [HKCR]psfFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]psfFile\Shell found to already exist.
+Created registry key [HKCR]psfFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]psfFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]phaFile with default value PTC Helper App File
+Modified existing registry key [HKCR]phaFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]phaFile\Shell found to already exist.
+Created registry key [HKCR]phaFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]phaFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]asmFile with default value Creo Assembly File
+Modified existing registry key [HKCR]asmFile with default value PTC.Creo_Parametric.[VERSION]
+Modified existing registry key [HKCR]asmFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]asmFile\Shell found to already exist.
+Created registry key [HKCR]asmFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]asmFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]dgmFile with default value Creo Diagram File
+Modified existing registry key [HKCR]dgmFile with default value PTC.Creo_Parametric.[VERSION]
+Modified existing registry key [HKCR]dgmFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]dgmFile\Shell found to already exist.
+Created registry key [HKCR]dgmFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]dgmFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]drwFile with default value Creo Drawing File
+Modified existing registry key [HKCR]drwFile with default value PTC.Creo_Parametric.[VERSION]
+Modified existing registry key [HKCR]drwFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]drwFile\Shell found to already exist.
+Created registry key [HKCR]drwFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]drwFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]frmFile with default value Creo Format File
+Modified existing registry key [HKCR]frmFile with default value PTC.Creo_Parametric.[VERSION]
+Modified existing registry key [HKCR]frmFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]frmFile\Shell found to already exist.
+Created registry key [HKCR]frmFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]frmFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]layFile with default value Creo Notebook File
+Modified existing registry key [HKCR]layFile with default value PTC.Creo_Parametric.[VERSION]
+Modified existing registry key [HKCR]layFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]layFile\Shell found to already exist.
+Created registry key [HKCR]layFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]layFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]mfgFile with default value Creo Manufacturing File
+Modified existing registry key [HKCR]mfgFile with default value PTC.Creo_Parametric.[VERSION]
+Modified existing registry key [HKCR]mfgFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]mfgFile\Shell found to already exist.
+Created registry key [HKCR]mfgFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]mfgFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]mrkFile with default value Creo Markup File
+Modified existing registry key [HKCR]mrkFile with default value PTC.Creo_Parametric.[VERSION]
+Modified existing registry key [HKCR]mrkFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]mrkFile\Shell found to already exist.
+Created registry key [HKCR]mrkFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]mrkFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]prtFile with default value Creo Part File
+Modified existing registry key [HKCR]prtFile with default value PTC.Creo_Parametric.[VERSION]
+Modified existing registry key [HKCR]prtFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]prtFile\Shell found to already exist.
+Created registry key [HKCR]prtFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]prtFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]secFile with default value Creo Section File
+Modified existing registry key [HKCR]secFile with default value PTC.Creo_Parametric.[VERSION]
+Modified existing registry key [HKCR]secFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]secFile\Shell found to already exist.
+Created registry key [HKCR]secFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]secFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Created registry key [HKCR]Applications\parametric.exe with default value PTC.Creo_Parametric.[VERSION].
+Created registry key [HKCR]Applications\parametric.exe\Shell.
+Created registry key [HKCR]Applications\parametric.exe\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]Applications\parametric.exe\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+ Sessioninfo xml file :F:\pim\xml\creo_templates.xml)
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/ptchostid.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/ptcflush.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/ptcstatus.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/convert_image.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/dcadsetup.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/dcadshutdown.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/parametric_borrow.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/pro_mcs_comp.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/pro_ncl_cvt.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/procvtutil.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/propostg.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/propostl.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/propostq.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/protab.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/protk_unlock.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/ptcborrow.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/purge.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Common Files/mech/install/nt/mech_lmlicfile.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/modelcheck.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/progpostg.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/progpostl.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/progpostq.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/ptcdbatch.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/vb_api_register.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/vb_api_unregister.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/prodialog_view.bat.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Common Files/creo_ui_editor/bin/creo_ui_editor.bat.
+ Sessioninfo xml file :F:\pim\xml\psf_templates.xml)
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/parametric.psf.
+Created script C:\Program Files\PTC/Creo 8.0.2.0/Parametric/bin/cocreatesim.psf.
+Create Start Menu Programs Folder Shortcut Creo Parametric 8.0.2.0.
+Create Desktop Shortcut Creo Parametric 8.0.2.0.
+Create Start Menu Programs Folder Shortcut Creo Distributed Batch 8.0.2.0.
+Create Start Menu Programs Folder Shortcut Creo Modelcheck 8.0.2.0.
+Create Start Menu Programs Folder Shortcut Creo UI Editor 8.0.2.0.
+Create Start Menu Shortcut uninstall.
+Create Start Menu Shortcut reconfigure.
+Executing custom action to configure Visual Basic.
+Goodbye!
